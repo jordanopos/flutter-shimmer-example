@@ -24,7 +24,7 @@ A Flutter application demonstrating the implementation of shimmer loading effect
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/shimmer_app.git
+git clone https://github.com/jordanopos/flutter-shimmer-example.git
 ```
 
 2. Navigate to the project directory:
